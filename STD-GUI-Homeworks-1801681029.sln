@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonCounter", "ButtonCoun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketManager", "TicketManager\TicketManager.csproj", "{13CA33C4-44DF-49A8-B80C-7E9F1A8C61CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigureMyAuto", "ConfigureMyAuto\ConfigureMyAuto.csproj", "{EE982C3E-1A3F-4548-A730-BF820B721A89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{13CA33C4-44DF-49A8-B80C-7E9F1A8C61CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13CA33C4-44DF-49A8-B80C-7E9F1A8C61CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13CA33C4-44DF-49A8-B80C-7E9F1A8C61CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE982C3E-1A3F-4548-A730-BF820B721A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE982C3E-1A3F-4548-A730-BF820B721A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE982C3E-1A3F-4548-A730-BF820B721A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE982C3E-1A3F-4548-A730-BF820B721A89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
