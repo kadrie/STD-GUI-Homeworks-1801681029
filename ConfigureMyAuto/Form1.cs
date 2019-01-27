@@ -122,5 +122,7 @@ namespace ConfigureMyAuto
                 cashDiscount -= 5;
             }
         }
+
+        
     }
 }
